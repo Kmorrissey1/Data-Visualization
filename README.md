@@ -18,3 +18,5 @@ I could not load the JSON data from a link; I had to upload a copy of it directl
 I do not know why I failed to make lerpColor happen before; I knew that map could be used with it to create smooth color transitions, but it was impossible for me to make it work with a moving object despite watching and following a few tutorials. I avoided that issue in this sketch by making the gradient the background, but I would like to make something more interactive with this function combination. 
 
 Not all of the names appear from the ISS. I thought maybe it had to do with the text boxes, but even when I created two boxes, three names did not appear. I don't know why my code does not go through the whole list of names in the JSON. This could probably be solved by more debugging. 
+
+JSON: http://api.open-notify.org/astros.json
